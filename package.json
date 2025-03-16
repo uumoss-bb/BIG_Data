@@ -10,7 +10,8 @@
   "author": "londelo",
   "license": "ISC",
   "devDependencies": {
-    "@eslint/js": "^9.22.0",
+    "@stylistic/eslint-plugin": "^4.2.0",
+    "@typescript-eslint/parser": "^8.26.1",
     "eslint": "^9.22.0",
     "globals": "^16.0.0",
     "typescript-eslint": "^8.26.1"
